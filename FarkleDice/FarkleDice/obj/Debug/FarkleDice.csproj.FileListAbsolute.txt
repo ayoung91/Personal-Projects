@@ -1,0 +1,14 @@
+E:\FarkleDice\FarkleDice\bin\Debug\FarkleDice.dll
+E:\FarkleDice\FarkleDice\bin\Debug\FarkleDice.pdb
+E:\FarkleDice\FarkleDice\obj\Debug\FarkleDice.csprojResolveAssemblyReference.cache
+E:\FarkleDice\FarkleDice\obj\Debug\FarkleDice.Die.resources
+E:\FarkleDice\FarkleDice\obj\Debug\FarkleDice.csproj.GenerateResource.Cache
+E:\FarkleDice\FarkleDice\obj\Debug\FarkleDice.dll
+E:\FarkleDice\FarkleDice\obj\Debug\FarkleDice.pdb
+F:\FarkleDice\FarkleDice\bin\Debug\FarkleDice.dll
+F:\FarkleDice\FarkleDice\bin\Debug\FarkleDice.pdb
+F:\FarkleDice\FarkleDice\obj\Debug\FarkleDice.csprojResolveAssemblyReference.cache
+F:\FarkleDice\FarkleDice\obj\Debug\FarkleDice.Die.resources
+F:\FarkleDice\FarkleDice\obj\Debug\FarkleDice.csproj.GenerateResource.Cache
+F:\FarkleDice\FarkleDice\obj\Debug\FarkleDice.dll
+F:\FarkleDice\FarkleDice\obj\Debug\FarkleDice.pdb
